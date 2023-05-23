@@ -1,0 +1,5 @@
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.Console\obj\Debug\net7.0\Directum.Console.csproj.AssemblyReference.cache
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.Console\obj\Debug\net7.0\Directum.Console.GeneratedMSBuildEditorConfig.editorconfig
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.Console\obj\Debug\net7.0\Directum.Console.AssemblyInfoInputs.cache
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.Console\obj\Debug\net7.0\Directum.Console.AssemblyInfo.cs
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.Console\obj\Debug\net7.0\Directum.Console.csproj.CoreCompileInputs.cache

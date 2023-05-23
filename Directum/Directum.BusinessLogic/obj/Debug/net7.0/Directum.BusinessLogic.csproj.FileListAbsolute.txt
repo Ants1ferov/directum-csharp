@@ -1,0 +1,12 @@
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\bin\Debug\net7.0\Directum.BusinessLogic.deps.json
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\bin\Debug\net7.0\Directum.BusinessLogic.dll
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\bin\Debug\net7.0\Directum.BusinessLogic.pdb
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.csproj.AssemblyReference.cache
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.AssemblyInfoInputs.cache
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.AssemblyInfo.cs
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.csproj.CoreCompileInputs.cache
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.dll
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\refint\Directum.BusinessLogic.dll
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\Directum.BusinessLogic.pdb
+S:\Материалы\Проекты\C# с нуля\Directum\Directum.BusinessLogic\obj\Debug\net7.0\ref\Directum.BusinessLogic.dll
